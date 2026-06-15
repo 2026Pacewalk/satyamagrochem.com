@@ -1,0 +1,118 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #2f7d33;
+  --color-brand-dark: #1b5e20;
+  --color-brand-darker: #143d16;
+  --color-brand-light: #5aa84d;
+  --color-leaf: #8bc34a;
+  --color-cream: #f6f8f2;
+  --color-sand: #eef2e6;
+  --color-ink: #1d2a18;
+  --color-muted: #5f6b58;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-poppins), var(--font-inter), sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #ffffff;
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* ----- Product spec HTML (from WordPress short description) ----- */
+.spec-html table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 0.75rem;
+}
+
+.spec-html td {
+  padding: 0.35rem 0;
+  vertical-align: top;
+  color: var(--color-ink);
+  line-height: 1.5;
+}
+
+.spec-html td.active-ingt,
+.spec-html tr:first-child td:not(.txt-lg):not(.mt-4) {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-brand);
+}
+
+.spec-html td.txt-lg {
+  font-size: 1.05rem;
+  font-weight: 600;
+  background: #fff6cc;
+  border-radius: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  display: inline-block;
+  margin-top: 0.15rem;
+  color: #5a4b00;
+}
+
+.spec-html td.mt-4 {
+  background: var(--color-brand);
+  color: #fff;
+  border-radius: 0.5rem;
+  padding: 0.45rem 0.85rem;
+  display: inline-block;
+  font-weight: 600;
+  margin-top: 0.15rem;
+}
+
+.spec-html strong {
+  color: var(--color-brand-dark);
+  font-weight: 700;
+}
+
+.spec-html a {
+  color: var(--color-brand);
+  text-decoration: underline;
+}
+
+/* Utility: subtle field/leaf pattern backdrop */
+.bg-field {
+  background-color: var(--color-brand-dark);
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(255, 255, 255, 0.06) 0, transparent 40%),
+    radial-gradient(circle at 80% 0%, rgba(139, 195, 74, 0.18) 0, transparent 45%),
+    linear-gradient(135deg, var(--color-brand-darker), var(--color-brand-dark));
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-up {
+  animation: fadeUp 0.6s ease both;
+}

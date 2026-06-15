@@ -1,0 +1,51 @@
+[
+    {
+        "id": 111,
+        "name": "Fertilizers",
+        "slug": "fertilizers",
+        "count": 16,
+        "description": ""
+    },
+    {
+        "id": 108,
+        "name": "Fungicides",
+        "slug": "fungicides",
+        "count": 37,
+        "description": "Products for controlling and preventing fungal infections in crops are available from Satyam Agrochem India. Our medicines successfully prevent plant diseases and guarantee healthier, more productive harvests."
+    },
+    {
+        "id": 109,
+        "name": "Herbicides",
+        "slug": "herbicides",
+        "count": 21,
+        "description": "We provide herbicides that kill or otherwise diminish the growth of undesirable plants that compete with crops for space, water, and light. Our herbicides are designed to be selective and won't harm the plants you want to keep while killing the weeds you don't."
+    },
+    {
+        "id": 107,
+        "name": "Insecticides",
+        "slug": "insecticides",
+        "count": 65,
+        "description": "The large variety of crop-damaging insects faced today may be efficiently controlled and managed by applying our insecticides. Our novel formulas eliminate unwanted pests while protecting beneficial insects and natural habitats."
+    },
+    {
+        "id": 114,
+        "name": "Micro Fertilisers",
+        "slug": "micro-fertilisers",
+        "count": 2,
+        "description": "The vital trace elements and minerals for healthy plant growth and development are included in our micro fertilizers. These mixtures are intended to restore nutrient levels that may be low, helping plants flourish."
+    },
+    {
+        "id": 110,
+        "name": "PGR",
+        "slug": "plant-growth-regulators",
+        "count": 10,
+        "description": "(Plant Growth Regulators)\r\nWe produce regulators that regulate and enhance plant growth and development. Improved root growth, more extraordinary fruit setting, and higher overall crop output are just a few ways these formulations benefit farmers."
+    },
+    {
+        "id": 115,
+        "name": "Weedicide",
+        "slug": "weedicide",
+        "count": 1,
+        "description": ""
+    }
+]

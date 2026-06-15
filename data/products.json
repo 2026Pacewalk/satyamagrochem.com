@@ -1,0 +1,2890 @@
+[
+    {
+        "id": 6044,
+        "name": "Aero",
+        "slug": "aero-2",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/07/aero-3.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>CAUTION</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Chlorantraniliprole 18.5% w/w SC</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton,Paddy, Maize &amp; Vegetables</td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> All Lepidoptera and other Species\r\n<strong>Dose:</strong> 60 MI/Acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4742,
+        "name": "Air Marshal",
+        "slug": "air-marshal",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/air-marshal.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Dinotefuran 15% + Pymetrozine 45% WG</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\"><strong>Pest/Disease:</strong> BPH, Green Leaf Hopper, WBPH, Rice ear head bug\r\n\r\n<strong>Dose:</strong> 133.2 gm/ Acre</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6550,
+        "name": "Alldrien 20/TC",
+        "slug": "alldrien-20-tc",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2026/04/alldrien20-tc.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"txt-lg\"> CHLORPYRIPHOS 20% E.C.</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6553,
+        "name": "Alldrien 50/TC",
+        "slug": "alldrien-50-tc",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2026/04/alldrien50-tc.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"txt-lg\"> CHLORPYRIPHOS 50% E.C.</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4884,
+        "name": "Amxzone",
+        "slug": "amxzone",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/05/amxzone-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Paraquat Dichloride 24% SL",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Paraquat Dichloride 24% SL\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Ageratum conyzoides, Commelina benghalensis, Echinochloa crusgalli, Panicum repens, Cyperus iria, Brachiaria mutoca\r\n<strong>Dose:</strong> 850-1600 ml/ Acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6057,
+        "name": "Apollo",
+        "slug": "apollo",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/07/apollo.jpg",
+        "imageExists": true,
+        "activeIngredient": "Fipronil 2.92%Ec",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Fipronil 2.92%Ec</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4718,
+        "name": "Attack",
+        "slug": "attack",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/03/attack.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>POISON</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Chlorpyriphos 10% GR</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Stem borer, Leaf Roller, Gall Midge\r\n<strong>Dose:</strong> 2.5kg./acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6135,
+        "name": "Audi",
+        "slug": "audi",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/07/audi-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Chlorothalonil 75% WP\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">All Crops</td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Tikka, Rust, Early & Late Blight, Anthraconse, Downy Mildew\r\n<strong>Dose:</strong> 240-320gm/ acre\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4852,
+        "name": "Aux",
+        "slug": "aux",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/aux1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Emamectin Benzoate 1.5 + Fipronil 3.5% SC</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton,Paddy,Maize &amp; Vegetables</td>\r\n</tr>\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> Thrips and Fruit Borer\r\n<strong>Dose:</strong> 200-250 ML/Acre</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4801,
+        "name": "Avenstar Top",
+        "slug": "avenstar-top",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/avenstar-top-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Azoxystrobin 18.2% + Difenoconazole 11.4% SC\r\n\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Wheat, Paddy, Maize </td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Powdery mildew, rust, and leaf spot disease\r\n<strong>Dose:</strong> 200 ml/ Acre\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4804,
+        "name": "Azoxy Extra",
+        "slug": "azoxy-extra",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/azoxy-extra.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>CAUTION</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Azoxystrobin 23% SC \r\n\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Grapes, Chilli, Mango, Tomato, Potato\r\n</td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\nPest/Disease: Powdery mildew, scab, Early & late blight, fruit rot\r\n<strong>Dose:</strong> 150 ml/ Acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6415,
+        "name": "Baku",
+        "slug": "baku",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2025/02/BAKU.jpg",
+        "imageExists": false,
+        "activeIngredient": "TEBUCONAZOLE 25% WG",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\"> TEBUCONAZOLE 25% WG </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4799,
+        "name": "Bestodia",
+        "slug": "bestodia",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/bestodia.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Azoxystrobin 11% + Tebuconazole 18.3% w/w SC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy, Wheat, Potato</td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Scab, Powdery Mildew & pre mature leaf fall disease\r\n<strong>Dose:</strong> 300 ml/acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4788,
+        "name": "Bispy-10",
+        "slug": "bispy-10",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/04/bispay-10-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Bispyribac Sodium 10 % SC</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> Sedges\r\n<strong>Dose:</strong> For transplanted:\r\n100 ml per acre\r\n<strong>For direct seeded:</strong> 100 ml per acre</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4805,
+        "name": "Bournvita",
+        "slug": "bournvita",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/bournvita.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>CAUTION</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Triacontanol EC 0.05% Min.\r\n</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\"><strong>MODE OF ACTION:</strong> Fully alcohol found in cuticle waxes and is a growth stimulant for many plants. It increases growth of the plants by enhancing the rate of photosynthesis, protein synthesis, the transport of nutrients and enzyme activity.\r\n<strong>Dose:</strong> 250-300ml/acre</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4920,
+        "name": "Boxer",
+        "slug": "aero",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/05/boxer.jpg",
+        "imageExists": true,
+        "activeIngredient": "Lambda-cyhalothrin 4.9% CS",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Lambda-cyhalothrin 4.9% CS\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong>  Stem borer, Leaf Folder\r\n<strong>Dose:</strong> 250ml / Acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6051,
+        "name": "Brigadier",
+        "slug": "brigadier",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/07/brididager.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">EMAMECTIN BENZOATE 3.0% + THIAMETHOXAM 12.0% WG</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Pulses, Chillies, Vegetables</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> Control stem borer, gall midge, leaffolder, bug sucking pests like aphids jassids and thrips etc\r\n<strong>Dose:</strong> 60-80gm/acre</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4858,
+        "name": "Bugatti",
+        "slug": "bugatti",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/bugatti-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>CAUTION</strong></td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">TEBUCONAZOLE 38.39% SC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy, Chilli, Onion</td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Scab, Powdery Mildew, pre mature leaf fall disease Blast of paddy, Sheath Blight\r\n<strong>Dosage:</strong> 2 MI Per Liter\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6131,
+        "name": "Bugatti FS",
+        "slug": "bugatti-fs",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/07/Bugatti-FS.jpg",
+        "imageExists": true,
+        "activeIngredient": "Tebuconazole 5.36% w/w FS",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Tebuconazole 5.36% w/w FS\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Wheat</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6103,
+        "name": "Buzin-70",
+        "slug": "buzin-70",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/07/buzin-70.jpg",
+        "imageExists": false,
+        "activeIngredient": "Metribuzin 70% W.P.",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Metribuzin 70% W.P.\r\n\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Chenopodium album, Trianthema monogyna, Parthenium hysterophorus, Fumaria parviflora, Melilctus spp. Phalaris minor \r\n<strong>Dose:</strong> 300-400 ml /acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6439,
+        "name": "BYD",
+        "slug": "byd",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2025/08/product.jpg",
+        "imageExists": false,
+        "activeIngredient": "AZOXYSTROBIN 11.5% + MANCOZEB 30% W/W WP",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\"> AZOXYSTROBIN 11.5% + MANCOZEB 30% W/W WP </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4841,
+        "name": "C-10",
+        "slug": "c-10",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/c-10.jpg",
+        "imageExists": true,
+        "activeIngredient": "Cypermethrin 10% EC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Cypermethrin 10% EC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4771,
+        "name": "Cadillac",
+        "slug": "cadillac",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/cadillac.jpg",
+        "imageExists": true,
+        "activeIngredient": "Copper Oxychloride  50.00% w/w WP",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Copper Oxychloride  50.00% w/w WP\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Field Crops, Vegetables Crops</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6564,
+        "name": "Calcarea",
+        "slug": "calcarea",
+        "categories": [
+            {
+                "name": "Fertilizers",
+                "slug": "fertilizers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fertilizers",
+            "slug": "fertilizers"
+        },
+        "imageFile": "2026/04/calcarea.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": ""
+    },
+    {
+        "id": 4908,
+        "name": "Captain",
+        "slug": "captain",
+        "categories": [
+            {
+                "name": "PGR",
+                "slug": "plant-growth-regulators"
+            }
+        ],
+        "primaryCategory": {
+            "name": "PGR",
+            "slug": "plant-growth-regulators"
+        },
+        "imageFile": "2023/05/saptain.jpg",
+        "imageExists": true,
+        "activeIngredient": "Ethephon 39% S.L",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Ethephon 39% S.L\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6065,
+        "name": "Captarra",
+        "slug": "captarra",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/07/captarra-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Thiamethoxam 25% WG",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Thiamethoxam 25% WG\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Stem borer, Gall midge, Leaf folder, WBPH, BPH, \r\n<strong>Dose:</strong> 40 gm / Acre\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4727,
+        "name": "Captarra Gold",
+        "slug": "captarra-gold",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/03/captarra-gold.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">THIAMETHOXAM 75% w/w SG</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton,Paddy & Vegetables</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> Termites, Early shoot borer Green Leaf Hopper, Brown Plant Hopper Jassids & Thrips Termites\r\n<strong>Dose:</strong> 50-64 Gm\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4918,
+        "name": "Captarra Pro",
+        "slug": "captarra-pro",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/05/captarra-pro-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Thiamethoxam 30% FS",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Thiamethoxam 30% FS</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton,Wheat,Chilli, Maize</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong>  Aphids, whiteflies, Jassids, Shoot fly, Stem Fly\r\n<strong>Dose:</strong> 80-100ml / Acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4796,
+        "name": "Chamtkar",
+        "slug": "chamtkar",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/chamtkar.jpg",
+        "imageExists": true,
+        "activeIngredient": "Carbendazim 46.27 % SC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Carbendazim 46.27 % SC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Grape, Mango</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6587,
+        "name": "Combo Pack",
+        "slug": "combo-pack",
+        "categories": [
+            {
+                "name": "Fertilizers",
+                "slug": "fertilizers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fertilizers",
+            "slug": "fertilizers"
+        },
+        "imageFile": "2026/04/combo-pack.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"txt-lg\">Single Nutrients</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n Wheat Special\r\n\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4748,
+        "name": "Cross",
+        "slug": "cross",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/cross-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">PYMETROZINE 50% WG</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy</td>\r\n</tr>\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> Brown Plant Hopper\r\n\r\n<strong>Dose:</strong> 120 gm per acre</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4754,
+        "name": "Diesel",
+        "slug": "diesel",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/diesel-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Dinotefuran 20% SG</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton, Paddy</td>\r\n</tr>\r\n<tr></tr>\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> White Fly, Jassids, Aphids &amp; Thrips, Brown plant hopper\r\n<strong>Dose:</strong> 80 gm/Acre</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4840,
+        "name": "Dollar",
+        "slug": "dollar",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/dollar.jpg",
+        "imageExists": true,
+        "activeIngredient": "Buprofezin 25% SC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Buprofezin 25% SC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4917,
+        "name": "Dragon",
+        "slug": "dragon",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/05/dragon.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>POISON</strong></td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Thiamethoxam 12.6% + Lambda-cyhalothrin 9.5% ZC</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n&nbsp;\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton,Paddy,Maize &amp; Vegetables</td>\r\n</tr>\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Sucking pest, thrips, tea mosquito bug and semilooper,\r\n<strong>Dose:</strong> 80 ML/200 Liter of water.\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4886,
+        "name": "Dwo Agni",
+        "slug": "dwo-agni",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/05/dwo-agni-1-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Glufosinate Ammonium 13.5% SL</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton,Tea</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> Very effective on hard to kill weeds and safe to applicator when used as per recommended protective spray.\r\n<strong>Dose:</strong> 1000-1200 ml/acre.</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4916,
+        "name": "Dynamic",
+        "slug": "dynamic",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/05/dynamic-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\"><strong>POISON</strong></td>\r\n</tr>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Emamectin Benzoate 1.9% EC</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton,Paddy,Maize &amp; Vegetables</td>\r\n</tr>\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> Diptera, Homoptera, Thysanoptera, and mites insects\r\n<strong>Dose:</strong> 75ml -250ml/acre</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4839,
+        "name": "F Marshal",
+        "slug": "f-marshal",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/f-marshal.jpg",
+        "imageExists": true,
+        "activeIngredient": "Monocrotophos-36% S.L.",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Monocrotophos-36% S.L.\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4954,
+        "name": "Fair",
+        "slug": "fair",
+        "categories": [
+            {
+                "name": "Weedicide",
+                "slug": "weedicide"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Weedicide",
+            "slug": "weedicide"
+        },
+        "imageFile": "2023/05/fair.png",
+        "imageExists": true,
+        "activeIngredient": "2,4-D Ethyl Ester 38 % EC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">2,4-D Ethyl Ester 38 % EC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4766,
+        "name": "Ferrari",
+        "slug": "ferrari",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/Ferrari.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">TRICYCLAZOLE 18.0% + TEBUCONAZOLE 14.4% SC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Soybean, Tomato, Sugarcane, Wheat</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Sheath blight, White rust, Die-back, Stem & Fruit rot,\r\n<strong>Dose:</strong> 2-2.5 ml per Liter water\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4769,
+        "name": "Filter",
+        "slug": "filter",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/filter-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Propiconazole 25% E.C",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Propiconazole 25% E.C\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Wheat, Paddy, Cotton</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Karnal bunt, Leaf rust, Stem rust, Stripe rust, Sheath blight\r\n<strong>Dose:</strong> 200ML / Acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6111,
+        "name": "Folio",
+        "slug": "folio",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/07/Folio.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>POISON</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Propiconazole 10.7% + Tricyclazole 34.2% SE\r\n\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Sheath blight and blast disease\r\n<strong>Dose:</strong> 200-280 ml\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4728,
+        "name": "Force-50",
+        "slug": "force-50",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/03/force-50.jpg",
+        "imageExists": true,
+        "activeIngredient": "Profenophos 50% EC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Profenophos 50% EC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4894,
+        "name": "Fortuner",
+        "slug": "fortuner",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/05/fortuner-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>CAUTION</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Thifluzamide 24% SC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Black scurf, Sheath blight, Early blight\r\n<strong>Dose:</strong> 375 ml\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6139,
+        "name": "Global",
+        "slug": "global",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/07/Global.jpg",
+        "imageExists": true,
+        "activeIngredient": "",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"txt-lg\">Carbendazim 50% WP\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Global Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton, Sugarcane, Brinjal, Cauliflower</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4775,
+        "name": "Growth",
+        "slug": "growth",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/growth-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Sulphur 55.16% SC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Sulphur 55.16% SC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Grapes, Mango</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6575,
+        "name": "Halomethyl-75",
+        "slug": "halomethyl-75",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2026/04/halomethyl-75.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"txt-lg\">Halosufuron Methyl 75% WG</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4750,
+        "name": "Havildar",
+        "slug": "havildar",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/havildar.jpg",
+        "imageExists": true,
+        "activeIngredient": "Alphacypermethrin 10% SC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Alphacypermethrin 10% SC\r\n\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6137,
+        "name": "Hector",
+        "slug": "hector",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/07/Hector.jpg",
+        "imageExists": true,
+        "activeIngredient": "",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"txt-lg\">Mancozeb 75 % WP</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Hector Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Potato, Apple, Grapes, Tomato, Wheat, Sunflower</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4838,
+        "name": "Hope",
+        "slug": "hope",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/hope.jpg",
+        "imageExists": true,
+        "activeIngredient": "Fenobucarb (B.P.M.C) 50% EC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Fenobucarb (B.P.M.C) 50% EC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4842,
+        "name": "Incarb",
+        "slug": "incarb",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/incarb-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Indoxacarb 14.5% SC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Indoxacarb 14.5% SC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cabbage, Chilli, Red Gram, Rice</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4896,
+        "name": "ISO-4",
+        "slug": "iso-4",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/05/iso-4.jpg",
+        "imageExists": true,
+        "activeIngredient": "Isoprothiolane 40 % EC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Isoprothiolane 40 % EC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4745,
+        "name": "Jorden",
+        "slug": "jorden",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/jorden.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Fipronil 40% + Imidacloprid 40% WG</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Sugarcane,Paddy</td>\r\n</tr>\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> White grubs, and other sucking pests.\r\n<strong>Dose:</strong> 40 gm</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6063,
+        "name": "Jupiter",
+        "slug": "jupiter",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/07/Jupiter.jpg",
+        "imageExists": true,
+        "activeIngredient": "Deltamethrin 2.5% W.P",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Deltamethrin 2.5% W.P\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6558,
+        "name": "Karzate",
+        "slug": "karzate",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2026/04/karzate.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"txt-lg\"> CYMOXANIL 8% + MANCOZEB 64% WP </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4729,
+        "name": "Kattappa",
+        "slug": "kattappa",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/03/kattappa-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Bifenthrin 10% EC w/w",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Bifenthrin 10% EC w/w\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Stem Borer, Leaf Folder & Green Leaf hopper\r\n<strong>Dose:</strong> 200-320 ML / Acre\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6401,
+        "name": "KDM",
+        "slug": "kdm",
+        "categories": [
+            {
+                "name": "PGR",
+                "slug": "plant-growth-regulators"
+            }
+        ],
+        "primaryCategory": {
+            "name": "PGR",
+            "slug": "plant-growth-regulators"
+        },
+        "imageFile": "2025/02/kdm-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>CAUTION</strong></td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Gibberellic Acid 0.186% SP </td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>MODE OF ACTION:</strong> To improve fiber quality.\r\n<strong>Dose:</strong> 100-150g.\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4906,
+        "name": "Kohinoor",
+        "slug": "kohinoor",
+        "categories": [
+            {
+                "name": "PGR",
+                "slug": "plant-growth-regulators"
+            }
+        ],
+        "primaryCategory": {
+            "name": "PGR",
+            "slug": "plant-growth-regulators"
+        },
+        "imageFile": "2023/05/kohinoor-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>CAUTION</strong></td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Gibberellic Acid 0.001% L\r\n\r\n</td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>MODE OF ACTION:</strong> Plant Growth Regulator\r\n<strong>Dose:</strong> 250 ml/acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4812,
+        "name": "Lamborghini",
+        "slug": "lamborghini",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/lamborghini.jpg",
+        "imageExists": true,
+        "activeIngredient": "Hexaconazole 5% + Validamycin 2.5%SC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Hexaconazole 5% + Validamycin 2.5%SC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6049,
+        "name": "Largo",
+        "slug": "largo",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/07/largo.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\"><strong>POISON</strong></td>\r\n</tr>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Chlorantraniliprole 9.3% + Lambdacyhalothrin 4.6% ZC</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton,Paddy&amp; Vegetables</td>\r\n</tr>\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> Stem Borer, Leaf folder, Green leafhopper.\r\n<strong>Dose:</strong> 80ml-100ml/Acre</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6572,
+        "name": "Laudrix",
+        "slug": "laudrix",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2026/04/laudrix.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"txt-lg\">Temborione 34.4% W/W SC</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4897,
+        "name": "Leafcure",
+        "slug": "leafcure",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/05/leafcure.jpg",
+        "imageExists": true,
+        "activeIngredient": "Tebuconazole 25.9% E.C.",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Tebuconazole 25.9% E.C.\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Rice, Chilli, Groundnut</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Blast, Sheath blight, Purple blotch, Anthracnose (pod blight). Tikka & Rust, Fruit rot, Powdery mildew\r\n<strong>Dose:</strong> 200-300ml / Acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6059,
+        "name": "Lieutenant",
+        "slug": "lieutenant",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/07/Lieutenant.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>POISON</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Carbofuran 3% C.G.\r\n</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> BPH, Gall midge, Green leaf hopper, Hispa\r\n<strong>Dose:</strong> 5 kg. /acre</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4832,
+        "name": "Little Boy",
+        "slug": "little-boy",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/little-boy.jpg",
+        "imageExists": true,
+        "activeIngredient": "Emamectin Benzoate 1.9% EC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Emamectin Benzoate 1.9% EC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6071,
+        "name": "Lotus",
+        "slug": "lotus",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/07/lotus-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Pyrazosulfuron Eethyl 10% WP</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy</td>\r\n</tr>\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> Broadleaf Weed, Grasses, Sedges\r\n<strong>Dose:</strong> 80 gm/Acre</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4928,
+        "name": "Ludo",
+        "slug": "ludo",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/05/ludo.jpg",
+        "imageExists": true,
+        "activeIngredient": "Pyriproxifen 10% EC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Pyriproxifen 10% EC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong>  Whitefly, Jassids, Aphids\r\n<strong>Dose:</strong> 350 ml / Acre\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4831,
+        "name": "Major",
+        "slug": "major",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/major.jpg",
+        "imageExists": true,
+        "activeIngredient": "DELTAMETHRIN 2% w/w EW",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">DELTAMETHRIN 2% w/w EW\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4758,
+        "name": "Major-G",
+        "slug": "major-g",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/major-g.jpg",
+        "imageExists": true,
+        "activeIngredient": "Deltamethrin 2.8% EC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Deltamethrin 2.8% EC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6412,
+        "name": "Melody",
+        "slug": "melody",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2025/02/melody.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\"> Tebuconazole 6.7% + Captan 26.9% w/w SC </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Smut, Leaf spot, Blotch, Sheath blight, White rust, White spot, etc.\r\n<strong>Dose:</strong> 2-2.5 ml per Liter water\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6556,
+        "name": "MESSI",
+        "slug": "messi",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2026/04/messi.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"txt-lg\"> EMAMECTIN BENZOATE 5% SG</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6569,
+        "name": "Mestra Xtra",
+        "slug": "mestra-xtra",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2026/04/mestra-xtra.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"txt-lg\">Mesotrione 2.27% + Atrazine 22.7%</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4875,
+        "name": "MWO",
+        "slug": "mwo",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/mwo-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>POISON</strong></td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Chlorantraniliprole 8.8% + Thiamethoxam 17.5% SC</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton,Paddy, Maize &amp; Vegetables</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Control Fruit Borer, Whitefly, Leaf Miner\r\n<strong>Dose:</strong> 80-100 MI/Acre.\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4830,
+        "name": "Naik",
+        "slug": "naik",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/naik.jpg",
+        "imageExists": true,
+        "activeIngredient": "Bifenthrin 8 % SC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Bifenthrin 8 % SC</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Tea, Apple</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4810,
+        "name": "Nexa Gold",
+        "slug": "nexa-gold",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/nexa-gold-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Hexaconazole 75% WG\t\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy, Chilli, Groundnut</td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Sheath Blight (Rhizoctonia solani), Sheath rot\r\n<strong>Dose:</strong> 27 gm\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4898,
+        "name": "Nexa Plus",
+        "slug": "nexa",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/05/nexa.jpg",
+        "imageExists": true,
+        "activeIngredient": "Hexaconazole 5% SC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Hexaconazole 5% SC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Mango, Cotton, Chilli, Paddy</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4829,
+        "name": "Nora",
+        "slug": "nora",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/nora.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>POISON</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Novaluron 5.25% + Indoxacarb 4.5% w/w SC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton,Paddy</td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Fruit Borer and Leaf eating caterpillar (Spodoptera litura)\r\n<strong>Dose:</strong> 2 ml/ L\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4929,
+        "name": "Nora Plus",
+        "slug": "nora-plus",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/05/nora-plus.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Novaluron 5.25% + Emamectin benzoate 0.9% w/w SC</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cabbage, Chilli, red Gram, Rice</td>\r\n</tr>\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> Fruit Borer, Gram Pod Borer, Stem Borer\r\n<strong>Dose:</strong> 350 ml/Acre</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6578,
+        "name": "NPK 13:045",
+        "slug": "npk-13045",
+        "categories": [
+            {
+                "name": "Fertilizers",
+                "slug": "fertilizers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fertilizers",
+            "slug": "fertilizers"
+        },
+        "imageFile": "2026/04/nok-13-045.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": ""
+    },
+    {
+        "id": 4777,
+        "name": "Nutri-80",
+        "slug": "nutri-80",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/nutri-80.jpg",
+        "imageExists": true,
+        "activeIngredient": "Sulphur 80% WDG",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Sulphur 80% WDG\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6420,
+        "name": "Orbit",
+        "slug": "orbit",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2025/02/orbit.jpg",
+        "imageExists": false,
+        "activeIngredient": "CAPTAN 70% + HEXACONAZOLE 5% WP",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\"> CAPTAN 70% + HEXACONAZOLE 5% WP </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6097,
+        "name": "Oxfen",
+        "slug": "oxfen",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/07/Oxfen.jpg",
+        "imageExists": true,
+        "activeIngredient": "Oxyfluofen 23.5%EC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Oxyfluofen 23.5%EC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4808,
+        "name": "Oxford",
+        "slug": "oxford",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/folio.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">AZOXYSTROBIN 16.7 % + TRICYCLAZOLE 33.3% SC\r\n\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy</td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Blast, Brown leaf spot, Sheath blight\r\n<strong>Dose:</strong> 200ml./ Acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4786,
+        "name": "Pendyam",
+        "slug": "pendyam",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/04/pendyam.jpg",
+        "imageExists": true,
+        "activeIngredient": "Pendimethalin 30 % EC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Pendimethalin 30 % EC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Echinochloa, Euphorbia, Wild Amaranthus, Phyllanthus, Paspalum, etc\r\n<strong>Dose:</strong> 1.0-1.5 It / Acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4863,
+        "name": "Pendyam Super",
+        "slug": "pendyam-super",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/04/pendyam-super-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Pendimethalin 38.7% CS</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton,Mustard</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> Echinochloa colonum, Dinebra arabica, Brachiaria mutica, Portulaca oleracea.\r\n\r\n<strong>Dose:</strong> 700ml. </td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4930,
+        "name": "Perme",
+        "slug": "perme",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/05/perme.jpg",
+        "imageExists": true,
+        "activeIngredient": "Permethrin 25% EC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Permethrin 25% EC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4864,
+        "name": "Power",
+        "slug": "power",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/04/power.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>CAUTION</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Sulfosulfuron 75% WG</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Wheat</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> Phalaris minor, Chenopodium spp. Melilotus album\r\n<strong>Dose:</strong> 13.5gm + 500ml Surfactant /acre</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6165,
+        "name": "Power-zinc",
+        "slug": "power-zinc",
+        "categories": [
+            {
+                "name": "Fertilizers",
+                "slug": "fertilizers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fertilizers",
+            "slug": "fertilizers"
+        },
+        "imageFile": "2023/07/power-zinc-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "CHELATED ZINC AS ZN-EDTA 12%",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\"> CHELATED ZINC AS ZN-EDTA 12% </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4931,
+        "name": "Preclaim",
+        "slug": "prectaim",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/05/prectaim-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>POISON</strong></td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Emamectin Benzoate 5% SG</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton,Paddy,Maize & Vegetables</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> Stem Borer, Fruit Borer, Leaf Folder, Etc\r\n<strong>Dose:</strong> 80g/Acre</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4932,
+        "name": "Pro-44",
+        "slug": "pro-44",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/05/pro-44-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Profenofos 40% + Cypermethrin 4%E.C",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Profenofos 40% + Cypermethrin 4%E.C\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Bollworm Complex\r\n<strong>Dose:</strong> 250ml / Acre\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6304,
+        "name": "Pulsar",
+        "slug": "pulsar-2",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/08/plusar.png",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>POISON</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Pyriproxyfen 5.0% + Diafenthiuron 25% SE</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Whitefly, Aphid, Jassids, Thrips\r\n<strong>Dose:</strong> 1000-1250 ml/Acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4828,
+        "name": "Pyramid",
+        "slug": "pyramid",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/pyramid.jpg",
+        "imageExists": true,
+        "activeIngredient": "Acetamiprid 20% SP",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Acetamiprid 20% SP\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6141,
+        "name": "Revital",
+        "slug": "revital",
+        "categories": [
+            {
+                "name": "PGR",
+                "slug": "plant-growth-regulators"
+            }
+        ],
+        "primaryCategory": {
+            "name": "PGR",
+            "slug": "plant-growth-regulators"
+        },
+        "imageFile": "2023/07/revital-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Paclobutrazol 23% SC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Mango Tree</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Has some fungicidal activity against mildew and rusts.\r\n<strong>Dose:</strong> 20 ml\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4907,
+        "name": "Revital Plus",
+        "slug": "revital-plus",
+        "categories": [
+            {
+                "name": "PGR",
+                "slug": "plant-growth-regulators"
+            }
+        ],
+        "primaryCategory": {
+            "name": "PGR",
+            "slug": "plant-growth-regulators"
+        },
+        "imageFile": "2023/05/revital-plus-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>POISON</strong></td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Paclobutrazol 40% SC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Pigeon Pea</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Flower initiation stage\r\n<strong>Dose:</strong> 30ml/ 200Ltr Water\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6561,
+        "name": "S-BORON",
+        "slug": "s-boron",
+        "categories": [
+            {
+                "name": "Fertilizers",
+                "slug": "fertilizers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fertilizers",
+            "slug": "fertilizers"
+        },
+        "imageFile": "2026/04/s-boron.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": ""
+    },
+    {
+        "id": 6577,
+        "name": "S-MIX 00:52:34",
+        "slug": "s-mix-005234",
+        "categories": [
+            {
+                "name": "Fertilizers",
+                "slug": "fertilizers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fertilizers",
+            "slug": "fertilizers"
+        },
+        "imageFile": "2026/04/s-mix-00-52.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": ""
+    },
+    {
+        "id": 6576,
+        "name": "S-MIX 19:19:19",
+        "slug": "s-mix-191919",
+        "categories": [
+            {
+                "name": "Fertilizers",
+                "slug": "fertilizers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fertilizers",
+            "slug": "fertilizers"
+        },
+        "imageFile": "2026/04/s-mix-19.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": ""
+    },
+    {
+        "id": 6163,
+        "name": "S-Neem",
+        "slug": "s-neem",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/07/S-Neem.jpg",
+        "imageExists": true,
+        "activeIngredient": "",
+        "specHtml": ""
+    },
+    {
+        "id": 6087,
+        "name": "S9-20",
+        "slug": "s9-20",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/07/S9-20.jpg",
+        "imageExists": true,
+        "activeIngredient": "Clodinafop propargyl 9% + Metribuzin 20% WP",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Clodinafop propargyl 9% + Metribuzin 20% WP</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Wheat</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4720,
+        "name": "Sartap",
+        "slug": "sartap-2",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/03/sartap.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>POISON</strong></td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Cartap Hydrochloride 4% GR</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Leaf folder, Stem borer, Whorl maggot\r\n<strong>Dose:</strong> 7.5 - 10 kg\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4719,
+        "name": "Sartap-50",
+        "slug": "sartap-50",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/03/sartap-50.jpg",
+        "imageExists": true,
+        "activeIngredient": "Cartap Hydrochloride 50% SP",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Cartap Hydrochloride 50% SP\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4867,
+        "name": "Sat Grip",
+        "slug": "sat-grip",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/04/satgrip.jpg",
+        "imageExists": true,
+        "activeIngredient": "Metsulfuron Methyl 20% WP",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Metsulfuron Methyl 20% WP\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4941,
+        "name": "Sat-Neem",
+        "slug": "sat-naam",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/05/sat-naam.jpg",
+        "imageExists": true,
+        "activeIngredient": "Neem Granular Formulation Azadirachtin 0.15% (1500 ppm) w/w min",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Neem Granular Formulation Azadirachtin 0.15% (1500 ppm) w/w min\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6161,
+        "name": "Sat-Neem",
+        "slug": "sat-neem",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/07/SAt-Neem.jpg",
+        "imageExists": true,
+        "activeIngredient": "Neem Kernel EC Azadirachtin 0.3% w/w min.(3000 PPM)",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Neem Kernel EC Azadirachtin 0.3% w/w min.(3000 PPM)\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6053,
+        "name": "Satban Pro",
+        "slug": "satban-pro",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/07/satban-plus.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">CHLORPYRIPHOS 20% CS</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton, Paddy, Wheat & Vegetables</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> WHITE GRUBS, GREEN PLANT HOOPER, BROWN PLANT HOOPER, COTTON BALL WORMS\r\n<strong>Dose:</strong> 500ml/Acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4939,
+        "name": "Satban-20",
+        "slug": "satban-20",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/05/satban-20-1.jpg",
+        "imageExists": true,
+        "activeIngredient": "Chlorpyriphos 20% E.C",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Chlorpyriphos 20% E.C\r\n\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong>  White Grubs, Green Plant Hooper, Brown Plant Hooper, Cotton Ball Worms\r\n<strong>Dose:</strong> 500ml / Acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4940,
+        "name": "Satban-50",
+        "slug": "satban-50",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/05/satban-50.jpg",
+        "imageExists": true,
+        "activeIngredient": "",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"txt-lg\">Chlorpyrifos 50% E.C.</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Satban-50 Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton, Paddy</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4868,
+        "name": "Satyafit",
+        "slug": "satyafil",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/04/satyafil-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Pretilachlor 50% E.C.",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Pretilachlor 50% E.C.\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> All narrow and broad leaf weeds- Echinochloa crusgalli\r\n<strong>Dose:</strong> 500ml / Acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4887,
+        "name": "Satyafit Super",
+        "slug": "satyafit",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/05/satyafit-super-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\"><strong>CAUTION</strong></td>\r\n</tr>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Pretilachlor 37% w/w EW</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy</td>\r\n</tr>\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> Echinochloa colonum, E. crusgall, Cyperus difformis. C. iria, Digitaria sanguinalis, Frimbristylis miliacea.\r\n<strong>Dose:</strong> 600ml./Acre</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6149,
+        "name": "Satyam Ferrous",
+        "slug": "satyam-ferrous",
+        "categories": [
+            {
+                "name": "Fertilizers",
+                "slug": "fertilizers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fertilizers",
+            "slug": "fertilizers"
+        },
+        "imageFile": "2023/07/Satyam-Ferrous.jpg",
+        "imageExists": true,
+        "activeIngredient": "FERROUS SULPHATE 19%",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\"> FERROUS SULPHATE 19% </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6147,
+        "name": "Satyam Magnesium",
+        "slug": "satyam-magnesium",
+        "categories": [
+            {
+                "name": "Fertilizers",
+                "slug": "fertilizers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fertilizers",
+            "slug": "fertilizers"
+        },
+        "imageFile": "2023/07/megnesium.jpg",
+        "imageExists": false,
+        "activeIngredient": "MAGNESIUM SULPHATE",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\"> MAGNESIUM SULPHATE </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6151,
+        "name": "Satyam Manganese",
+        "slug": "satyam-manganese",
+        "categories": [
+            {
+                "name": "Fertilizers",
+                "slug": "fertilizers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fertilizers",
+            "slug": "fertilizers"
+        },
+        "imageFile": "2023/07/manganese.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": ""
+    },
+    {
+        "id": 6153,
+        "name": "Satyam Manure",
+        "slug": "satyam-manure",
+        "categories": [
+            {
+                "name": "Fertilizers",
+                "slug": "fertilizers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fertilizers",
+            "slug": "fertilizers"
+        },
+        "imageFile": "2023/07/Satyam-Manure.jpg",
+        "imageExists": true,
+        "activeIngredient": "",
+        "specHtml": ""
+    },
+    {
+        "id": 6159,
+        "name": "Satyam NPK Booster",
+        "slug": "satyam-npk-booster",
+        "categories": [
+            {
+                "name": "Fertilizers",
+                "slug": "fertilizers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fertilizers",
+            "slug": "fertilizers"
+        },
+        "imageFile": "2023/07/Satyam-NPK-Booster.jpg",
+        "imageExists": true,
+        "activeIngredient": "",
+        "specHtml": ""
+    },
+    {
+        "id": 6157,
+        "name": "Satyam Potash",
+        "slug": "satyam-potash",
+        "categories": [
+            {
+                "name": "Fertilizers",
+                "slug": "fertilizers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fertilizers",
+            "slug": "fertilizers"
+        },
+        "imageFile": "2023/07/satyam-potash.jpg",
+        "imageExists": true,
+        "activeIngredient": "",
+        "specHtml": ""
+    },
+    {
+        "id": 4791,
+        "name": "Satyam Power PSB",
+        "slug": "satyam-power-psb",
+        "categories": [
+            {
+                "name": "Micro Fertilisers",
+                "slug": "micro-fertilisers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Micro Fertilisers",
+            "slug": "micro-fertilisers"
+        },
+        "imageFile": "2023/04/Satyam-Power-PSB.jpg",
+        "imageExists": true,
+        "activeIngredient": "",
+        "specHtml": ""
+    },
+    {
+        "id": 4793,
+        "name": "Satyam Root Gold",
+        "slug": "satyam-root-gold",
+        "categories": [
+            {
+                "name": "Micro Fertilisers",
+                "slug": "micro-fertilisers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Micro Fertilisers",
+            "slug": "micro-fertilisers"
+        },
+        "imageFile": "2023/04/satyam-root-gold-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": ""
+    },
+    {
+        "id": 6169,
+        "name": "Satyam-Potash",
+        "slug": "satyam-potash-2",
+        "categories": [
+            {
+                "name": "Fertilizers",
+                "slug": "fertilizers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fertilizers",
+            "slug": "fertilizers"
+        },
+        "imageFile": "2023/07/Satyam-Potash-1.jpg",
+        "imageExists": true,
+        "activeIngredient": "",
+        "specHtml": ""
+    },
+    {
+        "id": 6167,
+        "name": "Satyam-Power-PSB",
+        "slug": "satyam-power-psb-2",
+        "categories": [
+            {
+                "name": "Fertilizers",
+                "slug": "fertilizers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fertilizers",
+            "slug": "fertilizers"
+        },
+        "imageFile": "2023/07/Satyam-Power-PSB.jpg",
+        "imageExists": true,
+        "activeIngredient": "",
+        "specHtml": ""
+    },
+    {
+        "id": 4725,
+        "name": "Sergent",
+        "slug": "sergent",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/03/sergent.jpg",
+        "imageExists": true,
+        "activeIngredient": "Fipronil 0.3% G.R",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Fipronil 0.3% G.R</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4942,
+        "name": "Sergent SC",
+        "slug": "sergent-sc",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/05/sergent-sc.jpg",
+        "imageExists": true,
+        "activeIngredient": "",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"txt-lg\">Fipronil 5% SC</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Sergent SC Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4762,
+        "name": "Sergent Ultra",
+        "slug": "sergent-ultra",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/sergent-ultra.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>POISON</strong></td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Fipronil 0.6% w/w GR</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton,Paddy,Wheat& Vegetables</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> STEM BORER LEAF FOLDER\r\n<strong>Dose:</strong> 4Kg/Acre\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4714,
+        "name": "Shark-25",
+        "slug": "shark-25",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/03/shark-25.jpg",
+        "imageExists": true,
+        "activeIngredient": "Cypermethrin 25% E.C.",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Cypermethrin 25% E.C.\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4779,
+        "name": "Shelter",
+        "slug": "shelter",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/shelter.jpg",
+        "imageExists": true,
+        "activeIngredient": "Carbendazim 12% + Mancozeb 63% WP",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Carbendazim 12% + Mancozeb 63% WP\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Blister blight, Grey blight, Red rust, Die-back, Black rot \r\n<strong>Dose:</strong> 300-400g / Acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4823,
+        "name": "Shoot",
+        "slug": "shoot",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/shoot.jpg",
+        "imageExists": true,
+        "activeIngredient": "Lambda Cyhalothrin 5% EC.",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Lambda Cyhalothrin 5% EC.\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Leaf folder, Stem borer, GLH, Gall midge, Hispa, Thrips\r\n<strong>Dose:</strong> 250ml / Acre\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4878,
+        "name": "Skira",
+        "slug": "skira",
+        "categories": [
+            {
+                "name": "PGR",
+                "slug": "plant-growth-regulators"
+            }
+        ],
+        "primaryCategory": {
+            "name": "PGR",
+            "slug": "plant-growth-regulators"
+        },
+        "imageFile": "2023/04/skira-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": ""
+    },
+    {
+        "id": 6566,
+        "name": "Sona Gold",
+        "slug": "sona-gold",
+        "categories": [
+            {
+                "name": "PGR",
+                "slug": "plant-growth-regulators"
+            }
+        ],
+        "primaryCategory": {
+            "name": "PGR",
+            "slug": "plant-growth-regulators"
+        },
+        "imageFile": "2026/04/sona-gold.jpg",
+        "imageExists": false,
+        "activeIngredient": "",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"txt-lg\">Triacontanol EW 0.1% Min</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>MODE OF ACTION:</strong> Plant Growth Regulator\r\n\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4909,
+        "name": "Sona Gold Ew",
+        "slug": "sona-gold-ew",
+        "categories": [
+            {
+                "name": "PGR",
+                "slug": "plant-growth-regulators"
+            }
+        ],
+        "primaryCategory": {
+            "name": "PGR",
+            "slug": "plant-growth-regulators"
+        },
+        "imageFile": "2023/05/sona-gold-ew.jpg",
+        "imageExists": true,
+        "activeIngredient": "Triacontanol EW 0.1% MIN.",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Triacontanol EW 0.1% MIN.\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6143,
+        "name": "Sona Gold GR",
+        "slug": "sona-gold-gr",
+        "categories": [
+            {
+                "name": "PGR",
+                "slug": "plant-growth-regulators"
+            }
+        ],
+        "primaryCategory": {
+            "name": "PGR",
+            "slug": "plant-growth-regulators"
+        },
+        "imageFile": "2023/07/sona-gold-GR-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Triacontanol GR 0.05% Min",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>CAUTION</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"txt-lg\">Triacontanol GR 0.05% Min</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Sona Gold GR Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Plant Cells</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>MODE OF ACTION:</strong> Plant Growth Regulator\r\n<strong>Dose:</strong> 3 Kg/Acre\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4764,
+        "name": "Spectrum",
+        "slug": "spectrum",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/spectrum.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>POISON</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Imidacloprid 0.3% GR</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> STEM BORER\r\n<strong>Dose:</strong> 6 kg. /acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4752,
+        "name": "Star",
+        "slug": "star",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/star.jpg",
+        "imageExists": true,
+        "activeIngredient": "Ethion 50% EC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Ethion 50% EC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4756,
+        "name": "Subedar",
+        "slug": "subedar",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/subedar.jpg",
+        "imageExists": true,
+        "activeIngredient": "Diafenthiuron 30% + Pyriproxifen 8% SE",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Diafenthiuron 30% + Pyriproxifen 8% SE\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6408,
+        "name": "Sunrise",
+        "slug": "sunrise",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2025/02/sunrise.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">\r\nAzoxystrobin 12.5% + Tebuconazole 12.5%SC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Powdery mildew, Fruit rot\r\n<strong>Dose:</strong> 320-400 ml / Acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4871,
+        "name": "SYL-10",
+        "slug": "syl-10",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/04/syl-10.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Imazethapyr 10% SL</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Soybean, Groundnut</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Cypress difformis, Commelina benghalensis, Trianthema portulacasturm, Eragrostis pilosa\r\n<strong>Dose:</strong> 500ml, 600ml\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4726,
+        "name": "Tango",
+        "slug": "tango",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/03/tango-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Diafenthiuron 50% WP",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Diafenthiuron 50% WP\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4821,
+        "name": "Target SC",
+        "slug": "target-sc",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/target-sc.jpg",
+        "imageExists": true,
+        "activeIngredient": "Imidacloprid 30.5% SC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Imidacloprid 30.5% SC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Brown plant hopper, White backed plant hopper\r\n<strong>Dose:</strong> 100ml / acre\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4943,
+        "name": "Target-7g",
+        "slug": "target-7g",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/05/target-7g.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>POISON</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Imidacloprid 70% WG</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton,Paddy,Maize & Vegetables</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\"><strong>Pest/Disease:</strong> Aphids, Plant Hopper, White Backed Plant Hopper\r\n<strong>Dose:</strong> 2-3 gm per 15 ltr of water.</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4899,
+        "name": "Taru",
+        "slug": "taru",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/05/taru-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Tebuconazole 10% + Sulphur 65% WG\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Chilli, Paddy, Soyabean</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Smut, Leaf spot, Blotch, Sheath blight, White rust, White spot, etc.\r\n<strong>Dose:</strong> 500 gm\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6133,
+        "name": "Tebu 2",
+        "slug": "tebu-2",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/07/Tebu-2.jpg",
+        "imageExists": true,
+        "activeIngredient": "Tebuconazole 2% DS",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Tebuconazole 2% DS\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Wheat</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4784,
+        "name": "Tejas-58",
+        "slug": "tejas-58",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/04/tejas-58.jpg",
+        "imageExists": true,
+        "activeIngredient": "2,4-D Amine Salt 58% S.L",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">2,4-D Amine Salt 58% S.L\r\n\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Chenopodium Album, Fumaria Parviflora, Melillotus Alba, Vicia Sative, Asphodelus Tenuifolius, Convolvulus Arvensi\r\n<strong>Dose:</strong> 1300-500 ml /acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6061,
+        "name": "Termiless",
+        "slug": "termiless",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/07/Termiless.jpg",
+        "imageExists": true,
+        "activeIngredient": "Chlorpyriphos 2% RTU",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Chlorpyriphos 2% RTU\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6081,
+        "name": "Tiktok",
+        "slug": "tiktok",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/07/Tiktok.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Clodinafop - Propargyl 15% WP</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Wheat</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Phalaris Minor\r\n<strong>Dose:</strong> 160 gm/ Acre\r\n</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4773,
+        "name": "Tohfa",
+        "slug": "tohfa",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/tohfa.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Propiconazole 13.9% + Difenoconazole 13.9% EC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Sheath Blight and Dirty Panicle Disease in Paddy.\r\n<strong>Dose:</strong> 0.50-1.0 MI/Liter of water.\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4820,
+        "name": "Trident-505",
+        "slug": "trident-505",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/trident-505-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>POISON</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Chlorpyriphos 50% + Cypermethrin 5% EC</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Cotton,Paddy</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Aphid, Whiteflies, Jassids, Termites Shoot Fly, Thrips, Stem Fly\r\n<strong>Dose:</strong> 400ml/Acre\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4904,
+        "name": "Triple-H",
+        "slug": "triple-h",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/05/triple-H-1.jpg",
+        "imageExists": false,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>DANGER</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Azoxystrobin 2.5% + Thiophanate methyl 11.25% + Thiamethoxam 25% FS</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Soybean</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Termite, White grub\r\n<strong>Dose:</strong> 100 MI Per 10 Kg Seeds MI\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4760,
+        "name": "Trump",
+        "slug": "trump",
+        "categories": [
+            {
+                "name": "Insecticides",
+                "slug": "insecticides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Insecticides",
+            "slug": "insecticides"
+        },
+        "imageFile": "2023/04/trump-2.jpg",
+        "imageExists": false,
+        "activeIngredient": "Acephate 95% SG (w/w)",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Acephate 95% SG (w/w)\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6418,
+        "name": "Tubox",
+        "slug": "tubox",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2025/02/tubox.jpg",
+        "imageExists": false,
+        "activeIngredient": "TEBUCONAZOLE 2% DS",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\"> TEBUCONAZOLE 2% DS </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4859,
+        "name": "Validan",
+        "slug": "validan",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/validan.jpg",
+        "imageExists": true,
+        "activeIngredient": "Validamycin 3% L",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Validamycin 3% L\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6129,
+        "name": "Victory",
+        "slug": "victory",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/07/victory.jpg",
+        "imageExists": true,
+        "activeIngredient": "Tricyclazole 75% W.P.",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Tricyclazole 75% W.P.\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Paddy</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4910,
+        "name": "X+Y",
+        "slug": "xy",
+        "categories": [
+            {
+                "name": "PGR",
+                "slug": "plant-growth-regulators"
+            }
+        ],
+        "primaryCategory": {
+            "name": "PGR",
+            "slug": "plant-growth-regulators"
+        },
+        "imageFile": "2023/05/xy.jpg",
+        "imageExists": true,
+        "activeIngredient": "",
+        "specHtml": ""
+    },
+    {
+        "id": 4889,
+        "name": "Xtra Power",
+        "slug": "xtra-power",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/05/xtra-power.jpg",
+        "imageExists": true,
+        "activeIngredient": "Active Ingredient",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\"><strong>CAUTION</strong></td>\r\n</tr>\r\n\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Sulfosulfuron 75% + Metsulfuron methyl 5% WG</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recommendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Wheat</td>\r\n</tr>\r\n\r\n<tr>\r\n<td class=\"\">\r\n<strong>Pest/Disease:</strong> Phalaris minor, Rumex spp. Chenopodium spp.. Medicago denticulata, Coronopos dedymus\r\n<strong>Dose: </strong>16 g + 500 ml (Surfactant)\r\n</td>\r\n</tr>\r\n\r\n\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4814,
+        "name": "Zim SC",
+        "slug": "zim-sc",
+        "categories": [
+            {
+                "name": "Fungicides",
+                "slug": "fungicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fungicides",
+            "slug": "fungicides"
+        },
+        "imageFile": "2023/04/zim-sc.jpg",
+        "imageExists": true,
+        "activeIngredient": "Ziram 27% SC",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Ziram 27% SC\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top:10px;\">\r\n<tbody>\r\n<tr>\r\n<td>Recomendation Crops</td>\r\n</tr>\r\n<tr>\r\n<td class=\"mt-4\">Tomato, Potato, Grape, Apple</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 4781,
+        "name": "Zine-50",
+        "slug": "zine-50",
+        "categories": [
+            {
+                "name": "Herbicides",
+                "slug": "herbicides"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Herbicides",
+            "slug": "herbicides"
+        },
+        "imageFile": "2023/04/zine-50.jpg",
+        "imageExists": true,
+        "activeIngredient": "Atrazine 50% W.P",
+        "specHtml": "<table>\r\n<tbody>\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\">Atrazine 50% W.P\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    },
+    {
+        "id": 6145,
+        "name": "Zintex",
+        "slug": "zintex",
+        "categories": [
+            {
+                "name": "Fertilizers",
+                "slug": "fertilizers"
+            }
+        ],
+        "primaryCategory": {
+            "name": "Fertilizers",
+            "slug": "fertilizers"
+        },
+        "imageFile": "2023/07/Zintex.jpg",
+        "imageExists": true,
+        "activeIngredient": "ZINC OXIDE SUSPENSION (39.5% ZN)",
+        "specHtml": "<table>\r\n<tbody>\r\n\r\n<tr>\r\n<td class=\"active-ingt\">Active Ingredient</td>\r\n</tr>\r\n<tr>\r\n<td class=\"txt-lg\"> ZINC OXIDE SUSPENSION (39.5% ZN) </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"margin-top: 10px;\">\r\n<tbody>\r\n\r\n\r\n\r\n</tbody>\r\n</table>"
+    }
+]
