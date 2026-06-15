@@ -146,20 +146,28 @@ export default async function Footer() {
         </div>
 
         <div className="mt-12 flex flex-col items-center gap-4 border-t border-white/15 pt-6 sm:flex-row sm:justify-between">
-          <a
-            href="/sitemap.xml"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 rounded-full border border-white/25 px-4 py-2 text-xs font-semibold text-white transition-colors hover:border-leaf hover:text-leaf"
-          >
-            <svg viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round">
-              <rect x="3" y="3" width="7" height="7" rx="1" />
-              <rect x="14" y="3" width="7" height="7" rx="1" />
-              <rect x="3" y="14" width="7" height="7" rx="1" />
-              <rect x="14" y="14" width="7" height="7" rx="1" />
-            </svg>
-            View Sitemap.xml
-          </a>
+          <div className="flex flex-wrap items-center gap-2">
+            <Link
+              href="/sitemap"
+              className="inline-flex items-center gap-2 rounded-full border border-white/25 px-4 py-2 text-xs font-semibold text-white transition-colors hover:border-leaf hover:text-leaf"
+            >
+              <svg viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round">
+                <rect x="3" y="3" width="7" height="7" rx="1" />
+                <rect x="14" y="3" width="7" height="7" rx="1" />
+                <rect x="3" y="14" width="7" height="7" rx="1" />
+                <rect x="14" y="14" width="7" height="7" rx="1" />
+              </svg>
+              View Sitemap
+            </Link>
+            <a
+              href="/sitemap.xml"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center rounded-full border border-white/15 px-3 py-2 text-xs font-medium text-white/70 transition-colors hover:border-leaf hover:text-leaf"
+            >
+              sitemap.xml
+            </a>
+          </div>
           <div className="flex flex-col items-center gap-2 text-center text-xs text-white/55 sm:flex-row sm:gap-6">
             <span>© {site.copyrightYear} {site.name}. All rights reserved.</span>
             <span>
