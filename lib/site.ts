@@ -1,6 +1,7 @@
 export const site = {
   name: "Satyam Agro Chem",
   legalName: "Satyam Agrochem India",
+  url: "https://satyamagrochem.com",
   tagline: "Greening the Future with Sustainable Farming",
   subtitle: "Sustainable Solutions for a Thriving Agriculture",
   description:

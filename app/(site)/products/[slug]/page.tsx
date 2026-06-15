@@ -98,26 +98,30 @@ export default async function ProductPage({
             </div>
 
             <dl className="mt-6 space-y-4">
-              {product.activeIngredient && (
-                <div>
-                  <dt className="text-xs font-semibold uppercase tracking-wide text-brand">
-                    Active Ingredient
-                  </dt>
+              <div>
+                <dt className="text-xs font-semibold uppercase tracking-wide text-brand">
+                  Active Ingredient
+                </dt>
+                {product.activeIngredient ? (
                   <dd className="mt-1 inline-block rounded-lg bg-[#fff6cc] px-3 py-1.5 text-lg font-semibold text-[#5a4b00]">
                     {product.activeIngredient}
                   </dd>
-                </div>
-              )}
-              {product.crops && (
-                <div>
-                  <dt className="text-xs font-semibold uppercase tracking-wide text-brand">
-                    Recommendation Crops
-                  </dt>
+                ) : (
+                  <dd className="mt-1 text-muted">—</dd>
+                )}
+              </div>
+              <div>
+                <dt className="text-xs font-semibold uppercase tracking-wide text-brand">
+                  Recommendation Crops
+                </dt>
+                {product.crops ? (
                   <dd className="mt-1 inline-block rounded-lg bg-brand px-3 py-1.5 font-semibold text-white">
                     {product.crops}
                   </dd>
-                </div>
-              )}
+                ) : (
+                  <dd className="mt-1 text-muted">—</dd>
+                )}
+              </div>
               {product.pestDisease && (
                 <div>
                   <dt className="text-xs font-semibold uppercase tracking-wide text-brand">

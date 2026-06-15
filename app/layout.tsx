@@ -17,7 +17,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("http://localhost:3000"),
+  metadataBase: new URL(site.url),
   title: {
     default: `${site.name} — ${site.subtitle}`,
     template: `%s — ${site.name}`,
