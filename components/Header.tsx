@@ -8,19 +8,14 @@ import { WhatsAppIcon } from "./icons";
 
 function Logo({ onClick }: { onClick?: () => void }) {
   return (
-    <Link href="/" onClick={onClick} className="flex items-center gap-2.5 group">
-      <span className="grid h-10 w-10 place-items-center rounded-xl bg-brand text-white shadow-sm transition-transform group-hover:scale-105">
-        <svg viewBox="0 0 24 24" className="h-6 w-6" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-          <path d="M12 22c0-6 0-9 5-13" />
-          <path d="M17 4c-7 0-10 3-10 8a5 5 0 0 0 5 5c5 0 8-4 8-10 0-1.5-.3-3-3-3z" fill="currentColor" stroke="none" opacity="0.9" />
-        </svg>
-      </span>
-      <span className="leading-tight">
-        <span className="block font-display text-lg font-bold text-brand-dark">{site.name}</span>
-        <span className="block text-[10px] font-medium uppercase tracking-[0.18em] text-muted">
-          Agrochem · India
-        </span>
-      </span>
+    <Link
+      href="/"
+      onClick={onClick}
+      aria-label={`${site.name} — home`}
+      className="flex items-center transition-transform hover:scale-[1.03]"
+    >
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img src="/img/logo.png" alt={site.name} className="h-11 w-auto sm:h-14" />
     </Link>
   );
 }
